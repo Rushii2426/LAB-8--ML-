@@ -1,4 +1,4 @@
-# LAB-8-ML
+# ML-Lab-8: To implement Support Vector Machine (SVM) algorithm for classification.
 
 Practical 8 -- Support Vector Machine (SVM) Classification Aim To implement and evaluate Support Vector Machine (SVM) classifiers for predicting machine failure using the AI4I 2020 Predictive Maintenance dataset. Dataset
 
